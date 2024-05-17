@@ -5,6 +5,7 @@
 | [Определение выгодного тарифа для телеком компании](https://github.com/KseniyaCherednikova/data_science/blob/main/tariff/tariff.ipynb "Определение выгодного тарифа для телеком компании")| Построение модели определения выгодного тарифа для телеком компании| `pandas` `matplotlib` `sklearn`|
 | [Прогнозирование оттока клиента Банка](https://github.com/KseniyaCherednikova/data_science/blob/main/churn/churn.ipynb "Прогнозирование оттока клиента Банка")| Построение модели определения клиента, который может уйти| `pandas` `numpy` `matplotlib` `sklearn`|
 | [Определение наиболее выгодного региона нефтедобычи](https://github.com/KseniyaCherednikova/data_science/blob/main/well_locations/well_locations.ipynb "Определение наиболее выгодного региона нефтедобычи")| Определение наиболее выгодного региона нефтедобычи| `pandas` `numpy` `matplotlib` `sklearn``scipy`|
+| [Исследование технологического процесса очистки золота](https://github.com/KseniyaCherednikova/data_science/blob/main/gold_ore/gold_ore_2.ipynb "Исследование технологического процесса очистки золота")| Исследование технологического процесса очистки золота | `pandas` `numpy` `matplotlib` `math` `sklearn` `scipy`|
 
 
 
