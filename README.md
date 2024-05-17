@@ -12,8 +12,4 @@
 | [Построение модели определения стоимости автомобиля](https://github.com/KseniyaCherednikova/data_science/blob/main/car_cost/car_cost.ipynb "Построение модели определения стоимости автомобиля")| Разработка системы рекомендации стоимости автомобиля на основе его описания | `pandas` `numpy` `matplotlib` `sklearn` `catboost` `lightgbm` |
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/KseniyaCherednikova/data_science/blob/main/taxi/taxi.ipynb "Прогнозирование количества заказов такси на следующий час")| Разработка системы предсказания объема заказа | `pandas` `numpy` `matplotlib` `sklearn` `statsmodels` `lightgbm` |
 | [Обучение модели классификации комментариев](https://github.com/KseniyaCherednikova/data_science/blob/main/toxic_comments/toxic_comments.ipynb "Обучение модели классификации комментариев")| Определение токсичности комментарии | `pandas` `numpy` `matplotlib` `sklearn` `nltk` `re` |
-
-
-
-`pandas` `matplotlib` `numpy` `scipy` `seaborn` `plotly` `pymystem3` `requests` `re` `Tableau Public` `PowerPoint` `catboost` `lightgbm`
-`sklearn`
+| [Прогнозирование оттока телеком компании](https://github.com/KseniyaCherednikova/data_science/blob/main/telecom/telecom.ipynb "Прогнозирование оттока телеком компании")| Прогнозирование оттока телеком компании | `pandas` `numpy` `matplotlib` `sklearn`|
