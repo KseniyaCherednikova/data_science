@@ -7,8 +7,9 @@
 | [Определение наиболее выгодного региона нефтедобычи](https://github.com/KseniyaCherednikova/data_science/blob/main/well_locations/well_locations.ipynb "Определение наиболее выгодного региона нефтедобычи")| Определение наиболее выгодного региона нефтедобычи| `pandas` `numpy` `matplotlib` `sklearn``scipy`|
 | [Исследование технологического процесса очистки золота](https://github.com/KseniyaCherednikova/data_science/blob/main/gold_ore/gold_ore_2.ipynb "Исследование технологического процесса очистки золота")| Исследование технологического процесса очистки золота | `pandas` `numpy` `matplotlib` `math` `sklearn` `scipy`|
 | [Защита данных клиентов страховой компании](https://github.com/KseniyaCherednikova/data_science/blob/main/personal_data_protection/personal_data_protection.ipynb "Исследование технологического процесса очистки золота")| Защита данных клиентов страховой компании | `pandas` `numpy` `matplotlib` `sklearn` |
+| [Построение модели определения стоимости автомобиля](https://github.com/KseniyaCherednikova/data_science/blob/main/car_cost/car_cost.ipynb "Построение модели определения стоимости автомобиля")| Разработка системы рекомендации стоимости автомобиля на основе его описания | `pandas` `numpy` `matplotlib` `sklearn` `catboost` `lightgbm` |
 
 
 
-`pandas` `matplotlib` `numpy` `scipy` `seaborn` `plotly` `pymystem3` `requests` `re` `Tableau Public` `PowerPoint` 
+`pandas` `matplotlib` `numpy` `scipy` `seaborn` `plotly` `pymystem3` `requests` `re` `Tableau Public` `PowerPoint` `catboost` `lightgbm`
 `sklearn`
